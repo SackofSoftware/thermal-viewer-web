@@ -1,0 +1,12 @@
+{
+  "slug": "hingham",
+  "name": "Hingham Residential Inspection",
+  "client": "Gardner",
+  "location": "Hingham, MA",
+  "singleProperty": true,
+  "tabs": [
+    { "id": "viewer", "label": "Photos" },
+    { "id": "map", "label": "Orthophoto" },
+    { "id": "3d", "label": "3D Model" }
+  ]
+}
