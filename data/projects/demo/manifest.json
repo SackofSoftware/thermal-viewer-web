@@ -1,0 +1,450 @@
+{
+  "version": 2,
+  "projectName": "AR Drone Ops - Thermal Demo",
+  "totalCount": 12,
+  "flightGroups": [
+    "Flight_20260202"
+  ],
+  "photoGroups": [
+    {
+      "id": "group_0",
+      "name": "Roof",
+      "imageIds": [
+        "7bb0b72b5a28"
+      ],
+      "centerLat": 42.34090611111111,
+      "centerLon": -71.1222838611111,
+      "dominantYaw": 0.0,
+      "isRoofView": true
+    },
+    {
+      "id": "group_1",
+      "name": "North",
+      "imageIds": [
+        "d16437653f02",
+        "40d4df29377c",
+        "8c667cdae17a",
+        "6e46e7120dda"
+      ],
+      "centerLat": 42.34060924,
+      "centerLon": -71.12252989,
+      "dominantYaw": 17.9,
+      "isRoofView": false
+    },
+    {
+      "id": "group_2",
+      "name": "South",
+      "imageIds": [
+        "17ee651ad2f6",
+        "032c7107ec30",
+        "595c3bd83e4c",
+        "c1edddf2c830",
+        "bdca55ca5254"
+      ],
+      "centerLat": 42.34125038,
+      "centerLon": -71.12229821,
+      "dominantYaw": 170.0,
+      "isRoofView": false
+    },
+    {
+      "id": "group_3",
+      "name": "West",
+      "imageIds": [
+        "d4a692220df0",
+        "5d68584b951f"
+      ],
+      "centerLat": 42.34083053,
+      "centerLon": -71.12175100,
+      "dominantYaw": -78.3,
+      "isRoofView": false
+    }
+  ],
+  "images": [
+    {
+      "id": "17ee651ad2f6",
+      "filename": "DJI_20260202103407_0001_T.tiff",
+      "timestamp": "20260202103407",
+      "flightGroup": "Flight_20260202",
+      "sourceType": "tiff",
+      "stats": {
+        "minTemp": -9.019416809082031,
+        "maxTemp": 37.630645751953125,
+        "meanTemp": 13.672119140625,
+        "width": 640,
+        "height": 512
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.341241555555555,
+        "lon": -71.12241752777777
+      },
+      "gimbalYaw": 159.8,
+      "gimbalPitch": -12.2,
+      "relativeAltitude": 26.346
+    },
+    {
+      "id": "7bb0b72b5a28",
+      "filename": "DJI_20260202103516_0004_T.tiff",
+      "timestamp": "20260202103516",
+      "flightGroup": "Flight_20260202",
+      "sourceType": "tiff",
+      "stats": {
+        "minTemp": -9.019416809082031,
+        "maxTemp": 90.79711151123047,
+        "meanTemp": 5.5210394859313965,
+        "width": 640,
+        "height": 512
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.34090611111111,
+        "lon": -71.1222838611111
+      },
+      "gimbalYaw": 169.3,
+      "gimbalPitch": -89.9,
+      "relativeAltitude": 91.142
+    },
+    {
+      "id": "d4a692220df0",
+      "filename": "DJI_20260202103618_0005_T.tiff",
+      "timestamp": "20260202103618",
+      "flightGroup": "Flight_20260202",
+      "sourceType": "tiff",
+      "stats": {
+        "minTemp": -9.019416809082031,
+        "maxTemp": 124.98030090332031,
+        "meanTemp": 30.6635799407959,
+        "width": 640,
+        "height": 512
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.34082186111112,
+        "lon": -71.12167519444444
+      },
+      "gimbalYaw": -78.8,
+      "gimbalPitch": -31.5,
+      "relativeAltitude": 51.3
+    },
+    {
+      "id": "5d68584b951f",
+      "filename": "DJI_20260202103654_0007_T.tiff",
+      "timestamp": "20260202103654",
+      "flightGroup": "Flight_20260202",
+      "sourceType": "tiff",
+      "stats": {
+        "minTemp": -9.019416809082031,
+        "maxTemp": 143.19288635253906,
+        "meanTemp": 39.821434020996094,
+        "width": 640,
+        "height": 512
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.34083919444445,
+        "lon": -71.12182680555554
+      },
+      "gimbalYaw": -77.8,
+      "gimbalPitch": -21.2,
+      "relativeAltitude": 37.5
+    },
+    {
+      "id": "d16437653f02",
+      "filename": "DJI_20260202103813_0008_T.tiff",
+      "timestamp": "20260202103813",
+      "flightGroup": "Flight_20260202",
+      "sourceType": "tiff",
+      "stats": {
+        "minTemp": -9.019416809082031,
+        "maxTemp": 82.53688049316406,
+        "meanTemp": 45.16166305541992,
+        "width": 640,
+        "height": 512
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.340538611111114,
+        "lon": -71.12256922222221
+      },
+      "gimbalYaw": 22.1,
+      "gimbalPitch": -39.8,
+      "relativeAltitude": 41.797
+    },
+    {
+      "id": "40d4df29377c",
+      "filename": "DJI_20260202103825_0009_T.tiff",
+      "timestamp": "20260202103825",
+      "flightGroup": "Flight_20260202",
+      "sourceType": "tiff",
+      "stats": {
+        "minTemp": -9.019416809082031,
+        "maxTemp": 90.79711151123047,
+        "meanTemp": 49.069313049316406,
+        "width": 640,
+        "height": 512
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.34053891666667,
+        "lon": -71.12256824999999
+      },
+      "gimbalYaw": 22.0,
+      "gimbalPitch": -17.0,
+      "relativeAltitude": 29.087
+    },
+    {
+      "id": "032c7107ec30",
+      "filename": "DJI_20260202104050_0013_T.tiff",
+      "timestamp": "20260202104050",
+      "flightGroup": "Flight_20260202",
+      "sourceType": "tiff",
+      "stats": {
+        "minTemp": -9.019416809082031,
+        "maxTemp": 32.93470764160156,
+        "meanTemp": 11.020289421081543,
+        "width": 640,
+        "height": 512
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.34124397222222,
+        "lon": -71.12238519444443
+      },
+      "gimbalYaw": 165.1,
+      "gimbalPitch": -23.5,
+      "relativeAltitude": 32.265
+    },
+    {
+      "id": "bdca55ca5254",
+      "filename": "DJI_20260202104113_0015_T.tiff",
+      "timestamp": "20260202104113",
+      "flightGroup": "Flight_20260202",
+      "sourceType": "tiff",
+      "stats": {
+        "minTemp": -9.019416809082031,
+        "maxTemp": 58.624752044677734,
+        "meanTemp": 9.47288703918457,
+        "width": 640,
+        "height": 512
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.34127772222222,
+        "lon": -71.1220933611111
+      },
+      "gimbalYaw": -152.6,
+      "gimbalPitch": -18.9,
+      "relativeAltitude": 32.7
+    },
+    {
+      "id": "595c3bd83e4c",
+      "filename": "DJI_20260202105519_0001_T.tiff",
+      "timestamp": "20260202105519",
+      "flightGroup": "Flight_20260202",
+      "sourceType": "tiff",
+      "stats": {
+        "minTemp": -9.019416809082031,
+        "maxTemp": 84.25140380859375,
+        "meanTemp": 18.22527503967285,
+        "width": 640,
+        "height": 512
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.34120538888889,
+        "lon": -71.12216283333332
+      },
+      "gimbalYaw": 178.2,
+      "gimbalPitch": -8.3,
+      "relativeAltitude": 19.199
+    },
+    {
+      "id": "8c667cdae17a",
+      "filename": "DJI_20260202105806_0005_T.tiff",
+      "timestamp": "20260202105806",
+      "flightGroup": "Flight_20260202",
+      "sourceType": "tiff",
+      "stats": {
+        "minTemp": 16.818971633911133,
+        "maxTemp": 84.25140380859375,
+        "meanTemp": 57.814453125,
+        "width": 640,
+        "height": 512
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.340689194444444,
+        "lon": -71.12252369444444
+      },
+      "gimbalYaw": 14.7,
+      "gimbalPitch": -44.5,
+      "relativeAltitude": 33.649
+    },
+    {
+      "id": "6e46e7120dda",
+      "filename": "DJI_20260202105853_0007_T.tiff",
+      "timestamp": "20260202105853",
+      "flightGroup": "Flight_20260202",
+      "sourceType": "tiff",
+      "stats": {
+        "minTemp": 20.73565101623535,
+        "maxTemp": 85.10773468017578,
+        "meanTemp": 54.90193557739258,
+        "width": 640,
+        "height": 512
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.34067022222222,
+        "lon": -71.12245838888889
+      },
+      "gimbalYaw": 14.8,
+      "gimbalPitch": 0.2,
+      "relativeAltitude": 20.412
+    },
+    {
+      "id": "c1edddf2c830",
+      "filename": "DJI_20260202110416_0021_T.tiff",
+      "timestamp": "20260202110416",
+      "flightGroup": "Flight_20260202",
+      "sourceType": "tiff",
+      "stats": {
+        "minTemp": -41.00608825683594,
+        "maxTemp": 56.1522216796875,
+        "meanTemp": 4.7152485847473145,
+        "width": 640,
+        "height": 512
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.341283250000004,
+        "lon": -71.12243211111111
+      },
+      "gimbalYaw": 163.0,
+      "gimbalPitch": -32.0,
+      "relativeAltitude": 42.373
+    }
+  ],
+  "mapData": {
+    "center": {
+      "lat": 42.34091093,
+      "lon": -71.12212221
+    },
+    "bounds": {
+      "north": 42.34128325,
+      "south": 42.34053861,
+      "east": -71.12167519,
+      "west": -71.12256922
+    },
+    "markers": [
+      {
+        "imageId": "17ee651ad2f6",
+        "lat": 42.341241555555555,
+        "lon": -71.12241752777777,
+        "yaw": 159.8,
+        "pitch": -12.2,
+        "altitude": 26.346,
+        "facadeGroup": "South"
+      },
+      {
+        "imageId": "7bb0b72b5a28",
+        "lat": 42.34090611111111,
+        "lon": -71.1222838611111,
+        "yaw": 169.3,
+        "pitch": -89.9,
+        "altitude": 91.142,
+        "facadeGroup": "Roof"
+      },
+      {
+        "imageId": "d4a692220df0",
+        "lat": 42.34082186111112,
+        "lon": -71.12167519444444,
+        "yaw": -78.8,
+        "pitch": -31.5,
+        "altitude": 51.3,
+        "facadeGroup": "West"
+      },
+      {
+        "imageId": "5d68584b951f",
+        "lat": 42.34083919444445,
+        "lon": -71.12182680555554,
+        "yaw": -77.8,
+        "pitch": -21.2,
+        "altitude": 37.5,
+        "facadeGroup": "West"
+      },
+      {
+        "imageId": "d16437653f02",
+        "lat": 42.340538611111114,
+        "lon": -71.12256922222221,
+        "yaw": 22.1,
+        "pitch": -39.8,
+        "altitude": 41.797,
+        "facadeGroup": "North"
+      },
+      {
+        "imageId": "40d4df29377c",
+        "lat": 42.34053891666667,
+        "lon": -71.12256824999999,
+        "yaw": 22.0,
+        "pitch": -17.0,
+        "altitude": 29.087,
+        "facadeGroup": "North"
+      },
+      {
+        "imageId": "032c7107ec30",
+        "lat": 42.34124397222222,
+        "lon": -71.12238519444443,
+        "yaw": 165.1,
+        "pitch": -23.5,
+        "altitude": 32.265,
+        "facadeGroup": "South"
+      },
+      {
+        "imageId": "bdca55ca5254",
+        "lat": 42.34127772222222,
+        "lon": -71.1220933611111,
+        "yaw": -152.6,
+        "pitch": -18.9,
+        "altitude": 32.7,
+        "facadeGroup": "South"
+      },
+      {
+        "imageId": "595c3bd83e4c",
+        "lat": 42.34120538888889,
+        "lon": -71.12216283333332,
+        "yaw": 178.2,
+        "pitch": -8.3,
+        "altitude": 19.199,
+        "facadeGroup": "South"
+      },
+      {
+        "imageId": "8c667cdae17a",
+        "lat": 42.340689194444444,
+        "lon": -71.12252369444444,
+        "yaw": 14.7,
+        "pitch": -44.5,
+        "altitude": 33.649,
+        "facadeGroup": "North"
+      },
+      {
+        "imageId": "6e46e7120dda",
+        "lat": 42.34067022222222,
+        "lon": -71.12245838888889,
+        "yaw": 14.8,
+        "pitch": 0.2,
+        "altitude": 20.412,
+        "facadeGroup": "North"
+      },
+      {
+        "imageId": "c1edddf2c830",
+        "lat": 42.341283250000004,
+        "lon": -71.12243211111111,
+        "yaw": 163.0,
+        "pitch": -32.0,
+        "altitude": 42.373,
+        "facadeGroup": "South"
+      }
+    ]
+  }
+}

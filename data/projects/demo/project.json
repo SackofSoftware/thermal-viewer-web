@@ -1,0 +1,11 @@
+{
+  "slug": "demo",
+  "name": "AR Drone Ops - Thermal Demo",
+  "client": "AR Drone Ops",
+  "location": "Brookline, MA",
+  "singleProperty": true,
+  "tabs": [
+    { "id": "viewer", "label": "Thermal" },
+    { "id": "map", "label": "Map" }
+  ]
+}
