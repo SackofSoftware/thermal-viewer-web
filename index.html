@@ -29,6 +29,14 @@
         font-display: swap;
       }
     </style>
+    <script>
+      // Apply theme class before first paint to prevent flash of unstyled content
+      (function() {
+        var stored = localStorage.getItem('theme-preference');
+        var pref = (stored === 'light' || stored === 'dark' || stored === 'auto') ? stored : 'auto';
+        document.documentElement.classList.add(pref === 'auto' ? 'theme-auto' : 'theme-' + pref);
+      })();
+    </script>
     <script type="module" crossorigin src="/thermal-viewer-web/assets/index-QlpwI47r.js"></script>
     <link rel="stylesheet" crossorigin href="/thermal-viewer-web/assets/index-BWpeoNj1.css">
   </head>
