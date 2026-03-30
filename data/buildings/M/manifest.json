@@ -37,186 +37,446 @@
       "isRoofView": false
     }
   ],
-  "images": {
-    "71cbd68f5d82": {
+  "images": [
+    {
       "id": "71cbd68f5d82",
       "filename": "DJI_20260326113344_0112_V.JPG",
-      "lat": 42.743944119,
-      "lon": -71.136482574,
-      "gimbalPitch": -0.9,
+      "timestamp": "",
+      "flightGroup": "Flight_20260326",
+      "sourceType": "visible",
+      "stats": {
+        "minTemp": 0,
+        "maxTemp": 0,
+        "meanTemp": 0,
+        "width": 1280,
+        "height": 960
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.743944119,
+        "lon": -71.136482574
+      },
       "gimbalYaw": 177.6,
-      "hasThermal": false
+      "gimbalPitch": -0.9,
+      "relativeAltitude": null
     },
-    "31ca8b2f2090": {
+    {
       "id": "31ca8b2f2090",
       "filename": "DJI_20260326113347_0113_V.JPG",
-      "lat": 42.743946766,
-      "lon": -71.136391568,
-      "gimbalPitch": -0.9,
+      "timestamp": "",
+      "flightGroup": "Flight_20260326",
+      "sourceType": "visible",
+      "stats": {
+        "minTemp": 0,
+        "maxTemp": 0,
+        "meanTemp": 0,
+        "width": 1280,
+        "height": 960
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.743946766,
+        "lon": -71.136391568
+      },
       "gimbalYaw": 177.6,
-      "hasThermal": false
+      "gimbalPitch": -0.9,
+      "relativeAltitude": null
     },
-    "7104bf944c3f": {
+    {
       "id": "7104bf944c3f",
       "filename": "DJI_20260326113350_0114_V.JPG",
-      "lat": 42.743950463,
-      "lon": -71.1363223,
-      "gimbalPitch": -0.9,
+      "timestamp": "",
+      "flightGroup": "Flight_20260326",
+      "sourceType": "visible",
+      "stats": {
+        "minTemp": 0,
+        "maxTemp": 0,
+        "meanTemp": 0,
+        "width": 1280,
+        "height": 960
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.743950463,
+        "lon": -71.1363223
+      },
       "gimbalYaw": 177.6,
-      "hasThermal": false
+      "gimbalPitch": -0.9,
+      "relativeAltitude": null
     },
-    "ba95a96dbb29": {
+    {
       "id": "ba95a96dbb29",
       "filename": "DJI_20260326113458_0121_V.JPG",
-      "lat": 42.743706344,
-      "lon": -71.135847621,
-      "gimbalPitch": -25.9,
+      "timestamp": "",
+      "flightGroup": "Flight_20260326",
+      "sourceType": "visible",
+      "stats": {
+        "minTemp": 0,
+        "maxTemp": 0,
+        "meanTemp": 0,
+        "width": 1280,
+        "height": 960
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.743706344,
+        "lon": -71.135847621
+      },
       "gimbalYaw": -81.1,
-      "hasThermal": false
+      "gimbalPitch": -25.9,
+      "relativeAltitude": null
     },
-    "3f5aa739079e": {
+    {
       "id": "3f5aa739079e",
       "filename": "DJI_20260326114213_0009_V.JPG",
-      "lat": 42.743580783,
-      "lon": -71.13670559,
-      "gimbalPitch": -3.3,
+      "timestamp": "",
+      "flightGroup": "Flight_20260326",
+      "sourceType": "visible",
+      "stats": {
+        "minTemp": 0,
+        "maxTemp": 0,
+        "meanTemp": 0,
+        "width": 1280,
+        "height": 960
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.743580783,
+        "lon": -71.13670559
+      },
       "gimbalYaw": -17.8,
-      "hasThermal": false
+      "gimbalPitch": -3.3,
+      "relativeAltitude": null
     },
-    "15067d1034a7": {
+    {
       "id": "15067d1034a7",
       "filename": "DJI_20260326114216_0010_V.JPG",
-      "lat": 42.74358116,
-      "lon": -71.13670433,
-      "gimbalPitch": -3.3,
+      "timestamp": "",
+      "flightGroup": "Flight_20260326",
+      "sourceType": "visible",
+      "stats": {
+        "minTemp": 0,
+        "maxTemp": 0,
+        "meanTemp": 0,
+        "width": 1280,
+        "height": 960
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.74358116,
+        "lon": -71.13670433
+      },
       "gimbalYaw": 23.2,
-      "hasThermal": false
+      "gimbalPitch": -3.3,
+      "relativeAltitude": null
     },
-    "5754290fbec3": {
+    {
       "id": "5754290fbec3",
       "filename": "DJI_20260326114223_0011_V.JPG",
-      "lat": 42.743584256,
-      "lon": -71.13659241,
-      "gimbalPitch": -3.3,
+      "timestamp": "",
+      "flightGroup": "Flight_20260326",
+      "sourceType": "visible",
+      "stats": {
+        "minTemp": 0,
+        "maxTemp": 0,
+        "meanTemp": 0,
+        "width": 1280,
+        "height": 960
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.743584256,
+        "lon": -71.13659241
+      },
       "gimbalYaw": -6.5,
-      "hasThermal": false
+      "gimbalPitch": -3.3,
+      "relativeAltitude": null
     },
-    "7cb2b369a07b": {
+    {
       "id": "7cb2b369a07b",
       "filename": "DJI_20260326114226_0012_V.JPG",
-      "lat": 42.743588485,
-      "lon": -71.136551896,
-      "gimbalPitch": -3.3,
+      "timestamp": "",
+      "flightGroup": "Flight_20260326",
+      "sourceType": "visible",
+      "stats": {
+        "minTemp": 0,
+        "maxTemp": 0,
+        "meanTemp": 0,
+        "width": 1280,
+        "height": 960
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.743588485,
+        "lon": -71.136551896
+      },
       "gimbalYaw": -6.5,
-      "hasThermal": false
+      "gimbalPitch": -3.3,
+      "relativeAltitude": null
     },
-    "64d37e27c27a": {
+    {
       "id": "64d37e27c27a",
       "filename": "DJI_20260326114229_0013_V.JPG",
-      "lat": 42.74359155,
-      "lon": -71.136504121,
-      "gimbalPitch": -3.3,
+      "timestamp": "",
+      "flightGroup": "Flight_20260326",
+      "sourceType": "visible",
+      "stats": {
+        "minTemp": 0,
+        "maxTemp": 0,
+        "meanTemp": 0,
+        "width": 1280,
+        "height": 960
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.74359155,
+        "lon": -71.136504121
+      },
       "gimbalYaw": -6.5,
-      "hasThermal": false
+      "gimbalPitch": -3.3,
+      "relativeAltitude": null
     },
-    "fb4bdd9045b0": {
+    {
       "id": "fb4bdd9045b0",
       "filename": "DJI_20260326114232_0014_V.JPG",
-      "lat": 42.743596683,
-      "lon": -71.136448244,
-      "gimbalPitch": -3.3,
+      "timestamp": "",
+      "flightGroup": "Flight_20260326",
+      "sourceType": "visible",
+      "stats": {
+        "minTemp": 0,
+        "maxTemp": 0,
+        "meanTemp": 0,
+        "width": 1280,
+        "height": 960
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.743596683,
+        "lon": -71.136448244
+      },
       "gimbalYaw": -6.5,
-      "hasThermal": false
+      "gimbalPitch": -3.3,
+      "relativeAltitude": null
     },
-    "ea72c7dc236c": {
+    {
       "id": "ea72c7dc236c",
       "filename": "DJI_20260326114237_0015_V.JPG",
-      "lat": 42.743601867,
-      "lon": -71.136368263,
-      "gimbalPitch": -3.3,
+      "timestamp": "",
+      "flightGroup": "Flight_20260326",
+      "sourceType": "visible",
+      "stats": {
+        "minTemp": 0,
+        "maxTemp": 0,
+        "meanTemp": 0,
+        "width": 1280,
+        "height": 960
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.743601867,
+        "lon": -71.136368263
+      },
       "gimbalYaw": -6.5,
-      "hasThermal": false
+      "gimbalPitch": -3.3,
+      "relativeAltitude": null
     },
-    "0cf07ebf3da4": {
+    {
       "id": "0cf07ebf3da4",
       "filename": "DJI_20260326114240_0016_V.JPG",
-      "lat": 42.743606724,
-      "lon": -71.136311499,
-      "gimbalPitch": -3.3,
+      "timestamp": "",
+      "flightGroup": "Flight_20260326",
+      "sourceType": "visible",
+      "stats": {
+        "minTemp": 0,
+        "maxTemp": 0,
+        "meanTemp": 0,
+        "width": 1280,
+        "height": 960
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.743606724,
+        "lon": -71.136311499
+      },
       "gimbalYaw": -6.5,
-      "hasThermal": false
+      "gimbalPitch": -3.3,
+      "relativeAltitude": null
     },
-    "543ea773697c": {
+    {
       "id": "543ea773697c",
       "filename": "DJI_20260326114243_0017_V.JPG",
-      "lat": 42.743612266,
-      "lon": -71.136236686,
-      "gimbalPitch": -3.3,
+      "timestamp": "",
+      "flightGroup": "Flight_20260326",
+      "sourceType": "visible",
+      "stats": {
+        "minTemp": 0,
+        "maxTemp": 0,
+        "meanTemp": 0,
+        "width": 1280,
+        "height": 960
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.743612266,
+        "lon": -71.136236686
+      },
       "gimbalYaw": -6.5,
-      "hasThermal": false
+      "gimbalPitch": -3.3,
+      "relativeAltitude": null
     },
-    "eaf89570f726": {
+    {
       "id": "eaf89570f726",
       "filename": "DJI_20260326114246_0018_V.JPG",
-      "lat": 42.743619743,
-      "lon": -71.136146985,
-      "gimbalPitch": -3.3,
+      "timestamp": "",
+      "flightGroup": "Flight_20260326",
+      "sourceType": "visible",
+      "stats": {
+        "minTemp": 0,
+        "maxTemp": 0,
+        "meanTemp": 0,
+        "width": 1280,
+        "height": 960
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.743619743,
+        "lon": -71.136146985
+      },
       "gimbalYaw": -6.5,
-      "hasThermal": false
+      "gimbalPitch": -3.3,
+      "relativeAltitude": null
     },
-    "42bb08432858": {
+    {
       "id": "42bb08432858",
       "filename": "DJI_20260326114249_0019_V.JPG",
-      "lat": 42.743625527,
-      "lon": -71.13607974,
-      "gimbalPitch": -3.3,
+      "timestamp": "",
+      "flightGroup": "Flight_20260326",
+      "sourceType": "visible",
+      "stats": {
+        "minTemp": 0,
+        "maxTemp": 0,
+        "meanTemp": 0,
+        "width": 1280,
+        "height": 960
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.743625527,
+        "lon": -71.13607974
+      },
       "gimbalYaw": -6.5,
-      "hasThermal": false
+      "gimbalPitch": -3.3,
+      "relativeAltitude": null
     },
-    "b16c9db4887a": {
+    {
       "id": "b16c9db4887a",
       "filename": "DJI_20260326114252_0020_V.JPG",
-      "lat": 42.743624957,
-      "lon": -71.136079409,
-      "gimbalPitch": -3.3,
+      "timestamp": "",
+      "flightGroup": "Flight_20260326",
+      "sourceType": "visible",
+      "stats": {
+        "minTemp": 0,
+        "maxTemp": 0,
+        "meanTemp": 0,
+        "width": 1280,
+        "height": 960
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.743624957,
+        "lon": -71.136079409
+      },
       "gimbalYaw": -60.0,
-      "hasThermal": false
+      "gimbalPitch": -3.3,
+      "relativeAltitude": null
     },
-    "3e4803d4ccae": {
+    {
       "id": "3e4803d4ccae",
       "filename": "DJI_20260326114307_0021_V.JPG",
-      "lat": 42.743611094,
-      "lon": -71.136308423,
-      "gimbalPitch": -14.7,
+      "timestamp": "",
+      "flightGroup": "Flight_20260326",
+      "sourceType": "visible",
+      "stats": {
+        "minTemp": 0,
+        "maxTemp": 0,
+        "meanTemp": 0,
+        "width": 1280,
+        "height": 960
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.743611094,
+        "lon": -71.136308423
+      },
       "gimbalYaw": -60.5,
-      "hasThermal": false
+      "gimbalPitch": -14.7,
+      "relativeAltitude": null
     },
-    "10ecd90deb37": {
+    {
       "id": "10ecd90deb37",
       "filename": "DJI_20260326114336_0023_V.JPG",
-      "lat": 42.743677953,
-      "lon": -71.135631455,
-      "gimbalPitch": -36.4,
+      "timestamp": "",
+      "flightGroup": "Flight_20260326",
+      "sourceType": "visible",
+      "stats": {
+        "minTemp": 0,
+        "maxTemp": 0,
+        "meanTemp": 0,
+        "width": 1280,
+        "height": 960
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.743677953,
+        "lon": -71.135631455
+      },
       "gimbalYaw": -76.6,
-      "hasThermal": false
+      "gimbalPitch": -36.4,
+      "relativeAltitude": null
     },
-    "f5a9f7102f81": {
+    {
       "id": "f5a9f7102f81",
       "filename": "DJI_20260326121226_0025_V.JPG",
-      "lat": 42.743743949,
-      "lon": -71.136426644,
-      "gimbalPitch": -90.0,
+      "timestamp": "",
+      "flightGroup": "Flight_20260326",
+      "sourceType": "visible",
+      "stats": {
+        "minTemp": 0,
+        "maxTemp": 0,
+        "meanTemp": 0,
+        "width": 1280,
+        "height": 960
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.743743949,
+        "lon": -71.136426644
+      },
       "gimbalYaw": 174.5,
-      "hasThermal": false
+      "gimbalPitch": -90.0,
+      "relativeAltitude": null
     },
-    "57dbd1e4f858": {
+    {
       "id": "57dbd1e4f858",
       "filename": "DJI_20260326121756_0045_V.JPG",
-      "lat": 42.743333342,
-      "lon": -71.136601304,
-      "gimbalPitch": -40.7,
+      "timestamp": "",
+      "flightGroup": "Flight_20260326",
+      "sourceType": "visible",
+      "stats": {
+        "minTemp": 0,
+        "maxTemp": 0,
+        "meanTemp": 0,
+        "width": 1280,
+        "height": 960
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.743333342,
+        "lon": -71.136601304
+      },
       "gimbalYaw": 15.0,
-      "hasThermal": false
+      "gimbalPitch": -40.7,
+      "relativeAltitude": null
     }
-  }
+  ]
 }
