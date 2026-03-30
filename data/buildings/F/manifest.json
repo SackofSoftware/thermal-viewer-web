@@ -1,0 +1,882 @@
+{
+  "version": 2,
+  "projectName": "Colonial Village",
+  "totalCount": 86,
+  "flightGroups": [
+    "Flight_20260326"
+  ],
+  "photoGroups": [
+    {
+      "id": "group_0",
+      "name": "Building F",
+      "imageIds": [
+        "e3fbbd2a63d8",
+        "1b6338726233",
+        "a12248a7ab9e",
+        "5d2ffc5f1476",
+        "e6c049f1c2c7",
+        "6fcd0b4c42c7",
+        "3b187ffdda0b",
+        "f56b7859bf48",
+        "5ef6e666ecd8",
+        "6e74b3b0967c",
+        "7a09d59922f5",
+        "f5846a4b0e25",
+        "5623b661487a",
+        "72be06743d3d",
+        "d0e234f72e14",
+        "d006527fa381",
+        "204f3002da41",
+        "cbda995c806e",
+        "086ad6fb3db6",
+        "3cb9ab7acdfd",
+        "803a34bee63b",
+        "d3683f646ace",
+        "8e848e1f937a",
+        "29878733e1aa",
+        "7e2a5311e739",
+        "d700f3e42df5",
+        "3a97431793d9",
+        "8736d74d62c6",
+        "f2cbf104a52f",
+        "a74d7dbe438c",
+        "76dc0fe4b778",
+        "f5bce9c7c586",
+        "8667e78f0676",
+        "f55447889553",
+        "c7cacb04609d",
+        "c3d7cd14c271",
+        "d545aad1f100",
+        "508680af6f7c",
+        "973dd95ba48f",
+        "a9dd7373c9d4",
+        "50ce6ecfe052",
+        "a5e12a3d70ce",
+        "a3319c283042",
+        "7dc378a9e59c",
+        "78a198461304",
+        "8ae326f744fa",
+        "b1ceb040adce",
+        "94a210731c54",
+        "e14787c81a05",
+        "80cfbc5c929d",
+        "d62259ad91c5",
+        "6b9994195429",
+        "f1812c6e07f4",
+        "71507685604f",
+        "c65e074772d1",
+        "4c0faab8fa66",
+        "22d5e1ec4c3a",
+        "b2ab5accb950",
+        "7964148d9a35",
+        "4c63470a5255",
+        "9916a7dd0e9c",
+        "159efb0b70d3",
+        "ffd10583151a",
+        "5640134411ff",
+        "f96f6b5d52b4",
+        "a7b09a0ef9e4",
+        "e38bd7827df5",
+        "c4cd2150da22",
+        "5273e83336e7",
+        "46ecb2108072",
+        "e023cb62a611",
+        "6fd8def76496",
+        "f510c3df7ac6",
+        "a2d1581a2d92",
+        "2f2253cc6a5c",
+        "24de8c6173ec",
+        "9777f7443f57",
+        "3c5b060562c0",
+        "aa573ef0fe05",
+        "64f9c69c647a",
+        "ac7c52dffbe7",
+        "df2dcc70944f",
+        "efea6aae3aac",
+        "d7a4cf5d9686",
+        "04d5af3bad56",
+        "93b64e981ffc"
+      ],
+      "centerLat": 42.74476252069767,
+      "centerLon": -71.13525950402325,
+      "dominantYaw": 0.0,
+      "isRoofView": false
+    }
+  ],
+  "images": {
+    "e3fbbd2a63d8": {
+      "id": "e3fbbd2a63d8",
+      "filename": "DJI_20260326102750_0039_V.JPG",
+      "lat": 42.745028276,
+      "lon": -71.135647498,
+      "gimbalPitch": -49.1,
+      "gimbalYaw": 84.8,
+      "hasThermal": false
+    },
+    "1b6338726233": {
+      "id": "1b6338726233",
+      "filename": "DJI_20260326102759_0040_V.JPG",
+      "lat": 42.74505317,
+      "lon": -71.135258904,
+      "gimbalPitch": -90.0,
+      "gimbalYaw": -95.2,
+      "hasThermal": false
+    },
+    "a12248a7ab9e": {
+      "id": "a12248a7ab9e",
+      "filename": "DJI_20260326102803_0041_V.JPG",
+      "lat": 42.744980654,
+      "lon": -71.135252986,
+      "gimbalPitch": -89.9,
+      "gimbalYaw": 84.8,
+      "hasThermal": false
+    },
+    "5d2ffc5f1476": {
+      "id": "5d2ffc5f1476",
+      "filename": "DJI_20260326102807_0042_V.JPG",
+      "lat": 42.744924079,
+      "lon": -71.135248202,
+      "gimbalPitch": -90.0,
+      "gimbalYaw": -95.2,
+      "hasThermal": false
+    },
+    "e6c049f1c2c7": {
+      "id": "e6c049f1c2c7",
+      "filename": "DJI_20260326102810_0043_V.JPG",
+      "lat": 42.744863649,
+      "lon": -71.13524283,
+      "gimbalPitch": -89.9,
+      "gimbalYaw": 84.8,
+      "hasThermal": false
+    },
+    "6fcd0b4c42c7": {
+      "id": "6fcd0b4c42c7",
+      "filename": "DJI_20260326102814_0044_V.JPG",
+      "lat": 42.744803577,
+      "lon": -71.135235541,
+      "gimbalPitch": -90.0,
+      "gimbalYaw": -95.2,
+      "hasThermal": false
+    },
+    "3b187ffdda0b": {
+      "id": "3b187ffdda0b",
+      "filename": "DJI_20260326102817_0045_V.JPG",
+      "lat": 42.744757756,
+      "lon": -71.135230594,
+      "gimbalPitch": -90.0,
+      "gimbalYaw": -95.2,
+      "hasThermal": false
+    },
+    "f56b7859bf48": {
+      "id": "f56b7859bf48",
+      "filename": "DJI_20260326102824_0046_V.JPG",
+      "lat": 42.744696054,
+      "lon": -71.135226168,
+      "gimbalPitch": -89.9,
+      "gimbalYaw": 84.8,
+      "hasThermal": false
+    },
+    "5ef6e666ecd8": {
+      "id": "5ef6e666ecd8",
+      "filename": "DJI_20260326102828_0047_V.JPG",
+      "lat": 42.744634836,
+      "lon": -71.135218505,
+      "gimbalPitch": -89.9,
+      "gimbalYaw": 84.8,
+      "hasThermal": false
+    },
+    "6e74b3b0967c": {
+      "id": "6e74b3b0967c",
+      "filename": "DJI_20260326102832_0048_V.JPG",
+      "lat": 42.744548003,
+      "lon": -71.135208961,
+      "gimbalPitch": -89.9,
+      "gimbalYaw": 84.8,
+      "hasThermal": false
+    },
+    "7a09d59922f5": {
+      "id": "7a09d59922f5",
+      "filename": "DJI_20260326102836_0049_V.JPG",
+      "lat": 42.744455875,
+      "lon": -71.135197977,
+      "gimbalPitch": -90.0,
+      "gimbalYaw": -95.2,
+      "hasThermal": false
+    },
+    "f5846a4b0e25": {
+      "id": "f5846a4b0e25",
+      "filename": "DJI_20260326102902_0051_V.JPG",
+      "lat": 42.74433814,
+      "lon": -71.135256615,
+      "gimbalPitch": -44.6,
+      "gimbalYaw": 9.8,
+      "hasThermal": false
+    },
+    "5623b661487a": {
+      "id": "5623b661487a",
+      "filename": "DJI_20260326102917_0052_V.JPG",
+      "lat": 42.744404992,
+      "lon": -71.135419492,
+      "gimbalPitch": -31.5,
+      "gimbalYaw": 66.4,
+      "hasThermal": false
+    },
+    "72be06743d3d": {
+      "id": "72be06743d3d",
+      "filename": "DJI_20260326102922_0053_V.JPG",
+      "lat": 42.744517304,
+      "lon": -71.135448271,
+      "gimbalPitch": -31.5,
+      "gimbalYaw": 112.6,
+      "hasThermal": false
+    },
+    "d0e234f72e14": {
+      "id": "d0e234f72e14",
+      "filename": "DJI_20260326102930_0054_V.JPG",
+      "lat": 42.744522427,
+      "lon": -71.135445881,
+      "gimbalPitch": -34.3,
+      "gimbalYaw": 107.7,
+      "hasThermal": false
+    },
+    "d006527fa381": {
+      "id": "d006527fa381",
+      "filename": "DJI_20260326102937_0055_V.JPG",
+      "lat": 42.74459319,
+      "lon": -71.135464581,
+      "gimbalPitch": -34.3,
+      "gimbalYaw": 97.4,
+      "hasThermal": false
+    },
+    "204f3002da41": {
+      "id": "204f3002da41",
+      "filename": "DJI_20260326102949_0056_V.JPG",
+      "lat": 42.744697176,
+      "lon": -71.135515458,
+      "gimbalPitch": -34.3,
+      "gimbalYaw": 77.9,
+      "hasThermal": false
+    },
+    "cbda995c806e": {
+      "id": "cbda995c806e",
+      "filename": "DJI_20260326102952_0057_V.JPG",
+      "lat": 42.744783057,
+      "lon": -71.135523051,
+      "gimbalPitch": -34.3,
+      "gimbalYaw": 90.0,
+      "hasThermal": false
+    },
+    "086ad6fb3db6": {
+      "id": "086ad6fb3db6",
+      "filename": "DJI_20260326102955_0058_V.JPG",
+      "lat": 42.744845402,
+      "lon": -71.135520855,
+      "gimbalPitch": -34.3,
+      "gimbalYaw": 90.0,
+      "hasThermal": false
+    },
+    "3cb9ab7acdfd": {
+      "id": "3cb9ab7acdfd",
+      "filename": "DJI_20260326102958_0059_V.JPG",
+      "lat": 42.744909588,
+      "lon": -71.135521045,
+      "gimbalPitch": -34.3,
+      "gimbalYaw": 90.0,
+      "hasThermal": false
+    },
+    "803a34bee63b": {
+      "id": "803a34bee63b",
+      "filename": "DJI_20260326103003_0060_V.JPG",
+      "lat": 42.744983584,
+      "lon": -71.135523018,
+      "gimbalPitch": -34.3,
+      "gimbalYaw": 90.0,
+      "hasThermal": false
+    },
+    "d3683f646ace": {
+      "id": "d3683f646ace",
+      "filename": "DJI_20260326103006_0061_V.JPG",
+      "lat": 42.745053313,
+      "lon": -71.135525569,
+      "gimbalPitch": -34.3,
+      "gimbalYaw": 90.0,
+      "hasThermal": false
+    },
+    "8e848e1f937a": {
+      "id": "8e848e1f937a",
+      "filename": "DJI_20260326103015_0062_V.JPG",
+      "lat": 42.745217877,
+      "lon": -71.135429845,
+      "gimbalPitch": -34.3,
+      "gimbalYaw": 148.7,
+      "hasThermal": false
+    },
+    "29878733e1aa": {
+      "id": "29878733e1aa",
+      "filename": "DJI_20260326103020_0063_V.JPG",
+      "lat": 42.7452433,
+      "lon": -71.135354546,
+      "gimbalPitch": -34.3,
+      "gimbalYaw": 167.7,
+      "hasThermal": false
+    },
+    "7e2a5311e739": {
+      "id": "7e2a5311e739",
+      "filename": "DJI_20260326103110_0064_V.JPG",
+      "lat": 42.74524509,
+      "lon": -71.135352208,
+      "gimbalPitch": -34.3,
+      "gimbalYaw": 148.1,
+      "hasThermal": false
+    },
+    "d700f3e42df5": {
+      "id": "d700f3e42df5",
+      "filename": "DJI_20260326103318_0065_V.JPG",
+      "lat": 42.745051739,
+      "lon": -71.135245468,
+      "gimbalPitch": -88.7,
+      "gimbalYaw": -90.6,
+      "hasThermal": false
+    },
+    "3a97431793d9": {
+      "id": "3a97431793d9",
+      "filename": "DJI_20260326103327_0066_V.JPG",
+      "lat": 42.745032707,
+      "lon": -71.134968209,
+      "gimbalPitch": -46.2,
+      "gimbalYaw": -90.6,
+      "hasThermal": false
+    },
+    "8736d74d62c6": {
+      "id": "8736d74d62c6",
+      "filename": "DJI_20260326103330_0067_V.JPG",
+      "lat": 42.744937264,
+      "lon": -71.134963888,
+      "gimbalPitch": -46.2,
+      "gimbalYaw": -90.6,
+      "hasThermal": false
+    },
+    "f2cbf104a52f": {
+      "id": "f2cbf104a52f",
+      "filename": "DJI_20260326103334_0068_V.JPG",
+      "lat": 42.744822359,
+      "lon": -71.13495637,
+      "gimbalPitch": -46.2,
+      "gimbalYaw": -90.6,
+      "hasThermal": false
+    },
+    "a74d7dbe438c": {
+      "id": "a74d7dbe438c",
+      "filename": "DJI_20260326103338_0069_V.JPG",
+      "lat": 42.744724714,
+      "lon": -71.134953565,
+      "gimbalPitch": -46.2,
+      "gimbalYaw": -90.6,
+      "hasThermal": false
+    },
+    "76dc0fe4b778": {
+      "id": "76dc0fe4b778",
+      "filename": "DJI_20260326103343_0070_V.JPG",
+      "lat": 42.744562923,
+      "lon": -71.134930817,
+      "gimbalPitch": -46.2,
+      "gimbalYaw": -90.6,
+      "hasThermal": false
+    },
+    "f5bce9c7c586": {
+      "id": "f5bce9c7c586",
+      "filename": "DJI_20260326103417_0071_V.JPG",
+      "lat": 42.74454794,
+      "lon": -71.135101713,
+      "gimbalPitch": -26.7,
+      "gimbalYaw": -32.6,
+      "hasThermal": false
+    },
+    "8667e78f0676": {
+      "id": "8667e78f0676",
+      "filename": "DJI_20260326103420_0072_V.JPG",
+      "lat": 42.744547458,
+      "lon": -71.135102742,
+      "gimbalPitch": -26.7,
+      "gimbalYaw": -62.9,
+      "hasThermal": false
+    },
+    "f55447889553": {
+      "id": "f55447889553",
+      "filename": "DJI_20260326103422_0073_V.JPG",
+      "lat": 42.74454607,
+      "lon": -71.135102871,
+      "gimbalPitch": -26.7,
+      "gimbalYaw": -111.0,
+      "hasThermal": false
+    },
+    "c7cacb04609d": {
+      "id": "c7cacb04609d",
+      "filename": "DJI_20260326103424_0074_V.JPG",
+      "lat": 42.744545839,
+      "lon": -71.135101827,
+      "gimbalPitch": -26.7,
+      "gimbalYaw": -149.8,
+      "hasThermal": false
+    },
+    "c3d7cd14c271": {
+      "id": "c3d7cd14c271",
+      "filename": "DJI_20260326103431_0075_V.JPG",
+      "lat": 42.744547284,
+      "lon": -71.135102615,
+      "gimbalPitch": -8.1,
+      "gimbalYaw": -109.4,
+      "hasThermal": false
+    },
+    "d545aad1f100": {
+      "id": "d545aad1f100",
+      "filename": "DJI_20260326103432_0076_V.JPG",
+      "lat": 42.744548027,
+      "lon": -71.135102253,
+      "gimbalPitch": -8.1,
+      "gimbalYaw": -60.4,
+      "hasThermal": false
+    },
+    "508680af6f7c": {
+      "id": "508680af6f7c",
+      "filename": "DJI_20260326103435_0077_V.JPG",
+      "lat": 42.744548157,
+      "lon": -71.135101089,
+      "gimbalPitch": -8.1,
+      "gimbalYaw": -16.5,
+      "hasThermal": false
+    },
+    "973dd95ba48f": {
+      "id": "973dd95ba48f",
+      "filename": "DJI_20260326103447_0078_V.JPG",
+      "lat": 42.744565597,
+      "lon": -71.135097276,
+      "gimbalPitch": -15.4,
+      "gimbalYaw": -27.7,
+      "hasThermal": false
+    },
+    "a9dd7373c9d4": {
+      "id": "a9dd7373c9d4",
+      "filename": "DJI_20260326103449_0079_V.JPG",
+      "lat": 42.744565244,
+      "lon": -71.135097751,
+      "gimbalPitch": -15.4,
+      "gimbalYaw": -59.2,
+      "hasThermal": false
+    },
+    "50ce6ecfe052": {
+      "id": "50ce6ecfe052",
+      "filename": "DJI_20260326103452_0080_V.JPG",
+      "lat": 42.744564231,
+      "lon": -71.135096189,
+      "gimbalPitch": -15.4,
+      "gimbalYaw": -170.0,
+      "hasThermal": false
+    },
+    "a5e12a3d70ce": {
+      "id": "a5e12a3d70ce",
+      "filename": "DJI_20260326103507_0081_V.JPG",
+      "lat": 42.744617206,
+      "lon": -71.135092981,
+      "gimbalPitch": -15.4,
+      "gimbalYaw": -47.7,
+      "hasThermal": false
+    },
+    "a3319c283042": {
+      "id": "a3319c283042",
+      "filename": "DJI_20260326103510_0082_V.JPG",
+      "lat": 42.744616693,
+      "lon": -71.135091524,
+      "gimbalPitch": -4.4,
+      "gimbalYaw": -47.7,
+      "hasThermal": false
+    },
+    "7dc378a9e59c": {
+      "id": "7dc378a9e59c",
+      "filename": "DJI_20260326103520_0083_V.JPG",
+      "lat": 42.744712804,
+      "lon": -71.135093179,
+      "gimbalPitch": -4.4,
+      "gimbalYaw": -61.5,
+      "hasThermal": false
+    },
+    "78a198461304": {
+      "id": "78a198461304",
+      "filename": "DJI_20260326103523_0084_V.JPG",
+      "lat": 42.7447124,
+      "lon": -71.135092147,
+      "gimbalPitch": -0.1,
+      "gimbalYaw": -64.4,
+      "hasThermal": false
+    },
+    "8ae326f744fa": {
+      "id": "8ae326f744fa",
+      "filename": "DJI_20260326103525_0085_V.JPG",
+      "lat": 42.744712452,
+      "lon": -71.135091951,
+      "gimbalPitch": -0.1,
+      "gimbalYaw": -81.2,
+      "hasThermal": false
+    },
+    "b1ceb040adce": {
+      "id": "b1ceb040adce",
+      "filename": "DJI_20260326103530_0086_V.JPG",
+      "lat": 42.744735078,
+      "lon": -71.135087015,
+      "gimbalPitch": 5.6,
+      "gimbalYaw": -109.0,
+      "hasThermal": false
+    },
+    "94a210731c54": {
+      "id": "94a210731c54",
+      "filename": "DJI_20260326103533_0087_V.JPG",
+      "lat": 42.744733952,
+      "lon": -71.135086387,
+      "gimbalPitch": 2.8,
+      "gimbalYaw": -130.6,
+      "hasThermal": false
+    },
+    "e14787c81a05": {
+      "id": "e14787c81a05",
+      "filename": "DJI_20260326103536_0088_V.JPG",
+      "lat": 42.74473525,
+      "lon": -71.135086322,
+      "gimbalPitch": 2.8,
+      "gimbalYaw": -43.5,
+      "hasThermal": false
+    },
+    "80cfbc5c929d": {
+      "id": "80cfbc5c929d",
+      "filename": "DJI_20260326103545_0089_V.JPG",
+      "lat": 42.744784821,
+      "lon": -71.135095313,
+      "gimbalPitch": -1.6,
+      "gimbalYaw": -39.8,
+      "hasThermal": false
+    },
+    "d62259ad91c5": {
+      "id": "d62259ad91c5",
+      "filename": "DJI_20260326103548_0090_V.JPG",
+      "lat": 42.74478428,
+      "lon": -71.135094397,
+      "gimbalPitch": 6.1,
+      "gimbalYaw": -76.5,
+      "hasThermal": false
+    },
+    "6b9994195429": {
+      "id": "6b9994195429",
+      "filename": "DJI_20260326103551_0091_V.JPG",
+      "lat": 42.744783068,
+      "lon": -71.135093534,
+      "gimbalPitch": -1.0,
+      "gimbalYaw": -144.6,
+      "hasThermal": false
+    },
+    "f1812c6e07f4": {
+      "id": "f1812c6e07f4",
+      "filename": "DJI_20260326103604_0092_V.JPG",
+      "lat": 42.744837461,
+      "lon": -71.135106393,
+      "gimbalPitch": 13.5,
+      "gimbalYaw": -104.9,
+      "hasThermal": false
+    },
+    "71507685604f": {
+      "id": "71507685604f",
+      "filename": "DJI_20260326103606_0093_V.JPG",
+      "lat": 42.74483825,
+      "lon": -71.1351069,
+      "gimbalPitch": 13.5,
+      "gimbalYaw": -52.4,
+      "hasThermal": false
+    },
+    "c65e074772d1": {
+      "id": "c65e074772d1",
+      "filename": "DJI_20260326103615_0094_V.JPG",
+      "lat": 42.74493767,
+      "lon": -71.135122795,
+      "gimbalPitch": 2.2,
+      "gimbalYaw": -55.5,
+      "hasThermal": false
+    },
+    "4c0faab8fa66": {
+      "id": "4c0faab8fa66",
+      "filename": "DJI_20260326103617_0095_V.JPG",
+      "lat": 42.744936858,
+      "lon": -71.135122314,
+      "gimbalPitch": 2.2,
+      "gimbalYaw": -94.9,
+      "hasThermal": false
+    },
+    "22d5e1ec4c3a": {
+      "id": "22d5e1ec4c3a",
+      "filename": "DJI_20260326103619_0096_V.JPG",
+      "lat": 42.744936593,
+      "lon": -71.135121638,
+      "gimbalPitch": 2.2,
+      "gimbalYaw": -136.6,
+      "hasThermal": false
+    },
+    "b2ab5accb950": {
+      "id": "b2ab5accb950",
+      "filename": "DJI_20260326103629_0097_V.JPG",
+      "lat": 42.745013535,
+      "lon": -71.135128892,
+      "gimbalPitch": 2.2,
+      "gimbalYaw": -55.5,
+      "hasThermal": false
+    },
+    "7964148d9a35": {
+      "id": "7964148d9a35",
+      "filename": "DJI_20260326103631_0098_V.JPG",
+      "lat": 42.745012739,
+      "lon": -71.135128315,
+      "gimbalPitch": 17.8,
+      "gimbalYaw": -81.8,
+      "hasThermal": false
+    },
+    "4c63470a5255": {
+      "id": "4c63470a5255",
+      "filename": "DJI_20260326103633_0099_V.JPG",
+      "lat": 42.745012399,
+      "lon": -71.135127686,
+      "gimbalPitch": 7.3,
+      "gimbalYaw": -115.7,
+      "hasThermal": false
+    },
+    "9916a7dd0e9c": {
+      "id": "9916a7dd0e9c",
+      "filename": "DJI_20260326103636_0100_V.JPG",
+      "lat": 42.745012195,
+      "lon": -71.135126855,
+      "gimbalPitch": -2.2,
+      "gimbalYaw": -157.9,
+      "hasThermal": false
+    },
+    "159efb0b70d3": {
+      "id": "159efb0b70d3",
+      "filename": "DJI_20260326103705_0102_V.JPG",
+      "lat": 42.745082602,
+      "lon": -71.135483029,
+      "gimbalPitch": -2.2,
+      "gimbalYaw": 110.1,
+      "hasThermal": false
+    },
+    "ffd10583151a": {
+      "id": "ffd10583151a",
+      "filename": "DJI_20260326103708_0103_V.JPG",
+      "lat": 42.745031904,
+      "lon": -71.13550366,
+      "gimbalPitch": -2.2,
+      "gimbalYaw": 92.7,
+      "hasThermal": false
+    },
+    "5640134411ff": {
+      "id": "5640134411ff",
+      "filename": "DJI_20260326103713_0104_V.JPG",
+      "lat": 42.744960563,
+      "lon": -71.135524234,
+      "gimbalPitch": -2.2,
+      "gimbalYaw": 79.6,
+      "hasThermal": false
+    },
+    "f96f6b5d52b4": {
+      "id": "f96f6b5d52b4",
+      "filename": "DJI_20260326103717_0105_V.JPG",
+      "lat": 42.744924807,
+      "lon": -71.135515454,
+      "gimbalPitch": -2.2,
+      "gimbalYaw": 87.5,
+      "hasThermal": false
+    },
+    "a7b09a0ef9e4": {
+      "id": "a7b09a0ef9e4",
+      "filename": "DJI_20260326103720_0106_V.JPG",
+      "lat": 42.744897122,
+      "lon": -71.135514252,
+      "gimbalPitch": -2.2,
+      "gimbalYaw": 87.5,
+      "hasThermal": false
+    },
+    "e38bd7827df5": {
+      "id": "e38bd7827df5",
+      "filename": "DJI_20260326103722_0107_V.JPG",
+      "lat": 42.74482871,
+      "lon": -71.135509662,
+      "gimbalPitch": -2.2,
+      "gimbalYaw": 87.5,
+      "hasThermal": false
+    },
+    "c4cd2150da22": {
+      "id": "c4cd2150da22",
+      "filename": "DJI_20260326103726_0108_V.JPG",
+      "lat": 42.744756373,
+      "lon": -71.135506875,
+      "gimbalPitch": -2.2,
+      "gimbalYaw": 87.5,
+      "hasThermal": false
+    },
+    "5273e83336e7": {
+      "id": "5273e83336e7",
+      "filename": "DJI_20260326103729_0109_V.JPG",
+      "lat": 42.744671365,
+      "lon": -71.135500854,
+      "gimbalPitch": -2.2,
+      "gimbalYaw": 87.5,
+      "hasThermal": false
+    },
+    "46ecb2108072": {
+      "id": "46ecb2108072",
+      "filename": "DJI_20260326103732_0110_V.JPG",
+      "lat": 42.744616562,
+      "lon": -71.135500051,
+      "gimbalPitch": -2.2,
+      "gimbalYaw": 87.5,
+      "hasThermal": false
+    },
+    "e023cb62a611": {
+      "id": "e023cb62a611",
+      "filename": "DJI_20260326103735_0111_V.JPG",
+      "lat": 42.744570505,
+      "lon": -71.135498335,
+      "gimbalPitch": -2.2,
+      "gimbalYaw": 87.5,
+      "hasThermal": false
+    },
+    "6fd8def76496": {
+      "id": "6fd8def76496",
+      "filename": "DJI_20260326103738_0112_V.JPG",
+      "lat": 42.744511174,
+      "lon": -71.13549365,
+      "gimbalPitch": -2.2,
+      "gimbalYaw": 87.5,
+      "hasThermal": false
+    },
+    "f510c3df7ac6": {
+      "id": "f510c3df7ac6",
+      "filename": "DJI_20260326103755_0114_V.JPG",
+      "lat": 42.744265665,
+      "lon": -71.135189785,
+      "gimbalPitch": -25.4,
+      "gimbalYaw": -3.8,
+      "hasThermal": false
+    },
+    "a2d1581a2d92": {
+      "id": "a2d1581a2d92",
+      "filename": "DJI_20260326103812_0115_V.JPG",
+      "lat": 42.744350447,
+      "lon": -71.135094933,
+      "gimbalPitch": -20.7,
+      "gimbalYaw": -21.1,
+      "hasThermal": false
+    },
+    "2f2253cc6a5c": {
+      "id": "2f2253cc6a5c",
+      "filename": "DJI_20260326103815_0116_V.JPG",
+      "lat": 42.744352497,
+      "lon": -71.135085974,
+      "gimbalPitch": -20.7,
+      "gimbalYaw": -21.1,
+      "hasThermal": false
+    },
+    "24de8c6173ec": {
+      "id": "24de8c6173ec",
+      "filename": "DJI_20260326105853_0070_V.JPG",
+      "lat": 42.744791049,
+      "lon": -71.135562992,
+      "gimbalPitch": -11.1,
+      "gimbalYaw": 48.3,
+      "hasThermal": false
+    },
+    "9777f7443f57": {
+      "id": "9777f7443f57",
+      "filename": "DJI_20260326105855_0071_V.JPG",
+      "lat": 42.744790819,
+      "lon": -71.135562721,
+      "gimbalPitch": -11.1,
+      "gimbalYaw": 75.2,
+      "hasThermal": false
+    },
+    "3c5b060562c0": {
+      "id": "3c5b060562c0",
+      "filename": "DJI_20260326105856_0072_V.JPG",
+      "lat": 42.744789875,
+      "lon": -71.135562423,
+      "gimbalPitch": -11.1,
+      "gimbalYaw": 108.5,
+      "hasThermal": false
+    },
+    "aa573ef0fe05": {
+      "id": "aa573ef0fe05",
+      "filename": "DJI_20260326105858_0073_V.JPG",
+      "lat": 42.744789613,
+      "lon": -71.135562156,
+      "gimbalPitch": -11.1,
+      "gimbalYaw": 137.1,
+      "hasThermal": false
+    },
+    "64f9c69c647a": {
+      "id": "64f9c69c647a",
+      "filename": "DJI_20260326105905_0074_V.JPG",
+      "lat": 42.744583676,
+      "lon": -71.135488467,
+      "gimbalPitch": -11.1,
+      "gimbalYaw": 133.3,
+      "hasThermal": false
+    },
+    "ac7c52dffbe7": {
+      "id": "ac7c52dffbe7",
+      "filename": "DJI_20260326105919_0075_V.JPG",
+      "lat": 42.744199939,
+      "lon": -71.135206202,
+      "gimbalPitch": -21.3,
+      "gimbalYaw": 1.1,
+      "hasThermal": false
+    },
+    "df2dcc70944f": {
+      "id": "df2dcc70944f",
+      "filename": "DJI_20260326105942_0076_V.JPG",
+      "lat": 42.744396195,
+      "lon": -71.134345705,
+      "gimbalPitch": -38.7,
+      "gimbalYaw": -60.5,
+      "hasThermal": false
+    },
+    "efea6aae3aac": {
+      "id": "efea6aae3aac",
+      "filename": "DJI_20260326110000_0077_V.JPG",
+      "lat": 42.745444152,
+      "lon": -71.134691728,
+      "gimbalPitch": -38.7,
+      "gimbalYaw": -142.3,
+      "hasThermal": false
+    },
+    "d7a4cf5d9686": {
+      "id": "d7a4cf5d9686",
+      "filename": "DJI_20260326110019_0078_V.JPG",
+      "lat": 42.745255148,
+      "lon": -71.13590657,
+      "gimbalPitch": -42.5,
+      "gimbalYaw": 140.7,
+      "hasThermal": false
+    },
+    "04d5af3bad56": {
+      "id": "04d5af3bad56",
+      "filename": "DJI_20260326120854_0011_V.JPG",
+      "lat": 42.744774912,
+      "lon": -71.135215393,
+      "gimbalPitch": -90.0,
+      "gimbalYaw": -93.6,
+      "hasThermal": false
+    },
+    "93b64e981ffc": {
+      "id": "93b64e981ffc",
+      "filename": "DJI_20260326121555_0038_V.JPG",
+      "lat": 42.74471748,
+      "lon": -71.135902459,
+      "gimbalPitch": -40.9,
+      "gimbalYaw": 86.6,
+      "hasThermal": false
+    }
+  }
+}
