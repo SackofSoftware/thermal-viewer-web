@@ -4,32 +4,173 @@
   "client": "BEA - Building Envelope Analysts",
   "location": "Methuen, MA",
   "tabs": [
-    { "id": "viewer", "label": "Photos" },
-    { "id": "map", "label": "Map" }
+    {
+      "id": "viewer",
+      "label": "Photos"
+    },
+    {
+      "id": "map",
+      "label": "Map"
+    }
   ],
   "buildings": [
-    { "id": "A", "type": "_", "label": "A", "hasData": true, "imageCount": 58 },
-    { "id": "B", "type": "_", "label": "B", "hasData": true, "imageCount": 18 },
-    { "id": "C", "type": "_", "label": "C", "hasData": true, "imageCount": 16 },
-    { "id": "D", "type": "_", "label": "D", "hasData": true, "imageCount": 23 },
-    { "id": "E", "type": "_", "label": "E", "hasData": true, "imageCount": 54 },
-    { "id": "F", "type": "_", "label": "F", "hasData": true, "imageCount": 86 },
-    { "id": "G", "type": "_", "label": "G", "hasData": true, "imageCount": 18 },
-    { "id": "H", "type": "_", "label": "H", "hasData": true, "imageCount": 67 },
-    { "id": "I", "type": "_", "label": "I", "hasData": true, "imageCount": 27 },
-    { "id": "J", "type": "_", "label": "J", "hasData": true, "imageCount": 15 },
-    { "id": "K", "type": "_", "label": "K", "hasData": true, "imageCount": 12 },
-    { "id": "L", "type": "_", "label": "L", "hasData": true, "imageCount": 8 },
-    { "id": "M", "type": "_", "label": "M", "hasData": true, "imageCount": 20 },
-    { "id": "N", "type": "_", "label": "N", "hasData": true, "imageCount": 31 },
-    { "id": "O", "type": "_", "label": "O", "hasData": true, "imageCount": 26 },
-    { "id": "P", "type": "_", "label": "P", "hasData": true, "imageCount": 21 },
-    { "id": "Q", "type": "_", "label": "Q", "hasData": true, "imageCount": 23 },
-    { "id": "R", "type": "_", "label": "R", "hasData": true, "imageCount": 11 },
-    { "id": "S", "type": "_", "label": "S", "hasData": false },
-    { "id": "T", "type": "_", "label": "T", "hasData": false },
-    { "id": "U", "type": "_", "label": "U", "hasData": false },
-    { "id": "V", "type": "_", "label": "V", "hasData": false },
-    { "id": "W", "type": "_", "label": "W", "hasData": false }
+    {
+      "id": "A",
+      "type": "_",
+      "label": "A",
+      "hasData": true,
+      "imageCount": 58
+    },
+    {
+      "id": "B",
+      "type": "_",
+      "label": "B",
+      "hasData": true,
+      "imageCount": 18
+    },
+    {
+      "id": "C",
+      "type": "_",
+      "label": "C",
+      "hasData": true,
+      "imageCount": 16
+    },
+    {
+      "id": "D",
+      "type": "_",
+      "label": "D",
+      "hasData": true,
+      "imageCount": 23
+    },
+    {
+      "id": "E",
+      "type": "_",
+      "label": "E",
+      "hasData": true,
+      "imageCount": 54
+    },
+    {
+      "id": "F",
+      "type": "_",
+      "label": "F",
+      "hasData": true,
+      "imageCount": 86
+    },
+    {
+      "id": "G",
+      "type": "_",
+      "label": "G",
+      "hasData": true,
+      "imageCount": 18
+    },
+    {
+      "id": "H",
+      "type": "_",
+      "label": "H",
+      "hasData": true,
+      "imageCount": 67
+    },
+    {
+      "id": "I",
+      "type": "_",
+      "label": "I",
+      "hasData": true,
+      "imageCount": 27
+    },
+    {
+      "id": "J",
+      "type": "_",
+      "label": "J",
+      "hasData": true,
+      "imageCount": 15
+    },
+    {
+      "id": "K",
+      "type": "_",
+      "label": "K",
+      "hasData": true,
+      "imageCount": 12
+    },
+    {
+      "id": "L",
+      "type": "_",
+      "label": "L",
+      "hasData": true,
+      "imageCount": 8
+    },
+    {
+      "id": "M",
+      "type": "_",
+      "label": "M",
+      "hasData": true,
+      "imageCount": 20
+    },
+    {
+      "id": "N",
+      "type": "_",
+      "label": "N",
+      "hasData": true,
+      "imageCount": 31
+    },
+    {
+      "id": "O",
+      "type": "_",
+      "label": "O",
+      "hasData": true,
+      "imageCount": 26
+    },
+    {
+      "id": "P",
+      "type": "_",
+      "label": "P",
+      "hasData": true,
+      "imageCount": 21
+    },
+    {
+      "id": "Q",
+      "type": "_",
+      "label": "Q",
+      "hasData": true,
+      "imageCount": 23
+    },
+    {
+      "id": "R",
+      "type": "_",
+      "label": "R",
+      "hasData": true,
+      "imageCount": 11
+    },
+    {
+      "id": "S",
+      "type": "_",
+      "label": "S",
+      "hasData": true,
+      "imageCount": 21
+    },
+    {
+      "id": "T",
+      "type": "_",
+      "label": "T",
+      "hasData": false,
+      "imageCount": 0
+    },
+    {
+      "id": "U",
+      "type": "_",
+      "label": "U",
+      "hasData": false
+    },
+    {
+      "id": "V",
+      "type": "_",
+      "label": "V",
+      "hasData": false
+    },
+    {
+      "id": "W",
+      "type": "_",
+      "label": "W",
+      "hasData": false
+    }
   ]
 }

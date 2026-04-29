@@ -1,0 +1,7 @@
+{
+  "name": "colonial-village-viewer",
+  "private": true,
+  "dependencies": {
+    "dropbox": "^10.34.0"
+  }
+}

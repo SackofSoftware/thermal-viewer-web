@@ -1,0 +1,30 @@
+{
+  "_comment": "front_yaw = the compass direction (deg) the FRONT face of the building points. 0=N, 90=E, 180=S, 270=W. Side faces are ±90° from front. Rear is +180°. Roof is any photo with pitch < -75°. If unknown, defaults to 180 (south-facing).",
+  "_default_front_yaw": 180,
+  "_orientation_tolerance_deg": 45,
+  "buildings": {
+    "A": { "front_yaw": 180, "config": 1, "name": "6-Unit Rowhouse" },
+    "B": { "front_yaw": 180, "config": 1 },
+    "C": { "front_yaw": 180, "config": 1 },
+    "D": { "front_yaw": 180, "config": 1 },
+    "E": { "front_yaw": 180, "config": 2, "name": "8-Unit Rowhouse" },
+    "F": { "front_yaw":  90, "config": 3, "name": "14-Unit Extended Rowhouse" },
+    "G": { "front_yaw": 180, "config": 2 },
+    "H": { "front_yaw": 180, "config": 4, "name": "Mansard Apartment" },
+    "I": { "front_yaw": 180, "config": 1 },
+    "J": { "front_yaw": 180, "config": 1 },
+    "K": { "front_yaw": 180, "config": 2 },
+    "L": { "front_yaw": 180, "config": 2 },
+    "M": { "front_yaw": 180, "config": 4 },
+    "N": { "front_yaw": 180, "config": 4 },
+    "O": { "front_yaw": 180, "config": 4 },
+    "P": { "front_yaw": 180, "config": 1 },
+    "Q": { "front_yaw": 180, "config": 4 },
+    "R": { "front_yaw": 180, "config": 1 },
+    "S": { "front_yaw": 180, "config": 4 },
+    "T": { "front_yaw": 180, "config": 1 },
+    "U": { "front_yaw": 180, "config": 1 },
+    "V": { "front_yaw": 180, "config": 1 },
+    "W": { "front_yaw": 180, "config": 1 }
+  }
+}

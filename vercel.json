@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/dropbox-link.js": {
+      "maxDuration": 10
+    }
+  }
+}

@@ -1,0 +1,546 @@
+{
+  "version": "1.0",
+  "projectName": "Colonial Village",
+  "totalCount": 21,
+  "flightGroups": [
+    {
+      "id": "Flight_20260326",
+      "count": 20
+    }
+  ],
+  "photoGroups": [
+    {
+      "id": "Building_S",
+      "label": "Building S",
+      "images": [
+        "6fdb1e30c5b1",
+        "b6d7ccd89504",
+        "95e1a6a41c2a",
+        "04d3c1e06a82",
+        "e160275b4206",
+        "d9a5562e24f7",
+        "2de53083f9a1",
+        "3889971e5df7",
+        "2a610c7e8197",
+        "c45d6a5e8d60",
+        "8bf62d875de1",
+        "5989a54d03c6",
+        "b84b6e4b6711",
+        "916653b85bc8",
+        "0146295e93e6",
+        "451747118997",
+        "fb66f92b3ff3",
+        "43a5a3399993",
+        "74b4c11d375e",
+        "81b732f9e47c",
+        "4daa4fcb4f7e"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "id": "6fdb1e30c5b1",
+      "filename": "DJI_20260326115227_0074_V.JPG",
+      "timestamp": "",
+      "flightGroup": "Flight_20260326",
+      "sourceType": "visible",
+      "stats": {
+        "minTemp": 0,
+        "maxTemp": 0,
+        "meanTemp": 0,
+        "width": 1280,
+        "height": 960
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.742953972222224,
+        "lon": -71.1378933888889
+      },
+      "gimbalYaw": -118.5,
+      "gimbalPitch": -41.8,
+      "relativeAltitude": null,
+      "fullResUrl": "https://www.dropbox.com/scl/fi/yxzgf0bp2wvl1hwutzx29/DJI_20260326115227_0074_V.JPG?rlkey=rq051q8s3sc9jobnc8uike3z4&raw=1",
+      "dropboxPath": "/Inspections/Colonial Village/S/2026-03-26/Wide/DJI_20260326115227_0074_V.JPG"
+    },
+    {
+      "id": "b6d7ccd89504",
+      "filename": "DJI_20260326115359_0078_V.JPG",
+      "timestamp": "",
+      "flightGroup": "Flight_20260326",
+      "sourceType": "visible",
+      "stats": {
+        "minTemp": 0,
+        "maxTemp": 0,
+        "meanTemp": 0,
+        "width": 1280,
+        "height": 960
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.742927305555554,
+        "lon": -71.13802105555557
+      },
+      "gimbalYaw": -141.1,
+      "gimbalPitch": -9.5,
+      "relativeAltitude": null,
+      "fullResUrl": "https://www.dropbox.com/scl/fi/h8luuzhhh6jamg4wxii7f/DJI_20260326115359_0078_V.JPG?rlkey=6c261dtthnyyx5z9mqj9dyyif&raw=1",
+      "dropboxPath": "/Inspections/Colonial Village/S/2026-03-26/Wide/DJI_20260326115359_0078_V.JPG"
+    },
+    {
+      "id": "95e1a6a41c2a",
+      "filename": "DJI_20260326115403_0079_V.JPG",
+      "timestamp": "",
+      "flightGroup": "Flight_20260326",
+      "sourceType": "visible",
+      "stats": {
+        "minTemp": 0,
+        "maxTemp": 0,
+        "meanTemp": 0,
+        "width": 1280,
+        "height": 960
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.74292758333333,
+        "lon": -71.13802097222222
+      },
+      "gimbalYaw": -168.0,
+      "gimbalPitch": -3.8,
+      "relativeAltitude": null,
+      "fullResUrl": "https://www.dropbox.com/scl/fi/tskds7utacud3i2xa4kkr/DJI_20260326115403_0079_V.JPG?rlkey=15r1hvv0dt5793c89pmc8ep78&raw=1",
+      "dropboxPath": "/Inspections/Colonial Village/S/2026-03-26/Wide/DJI_20260326115403_0079_V.JPG"
+    },
+    {
+      "id": "04d3c1e06a82",
+      "filename": "DJI_20260326115410_0080_V.JPG",
+      "timestamp": "",
+      "flightGroup": "Flight_20260326",
+      "sourceType": "visible",
+      "stats": {
+        "minTemp": 0,
+        "maxTemp": 0,
+        "meanTemp": 0,
+        "width": 1280,
+        "height": 960
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.742932305555556,
+        "lon": -71.13812369444445
+      },
+      "gimbalYaw": -8.4,
+      "gimbalPitch": 3.0,
+      "relativeAltitude": null,
+      "fullResUrl": "https://www.dropbox.com/scl/fi/m7qsxewj69u1m46fcjuqm/DJI_20260326115410_0080_V.JPG?rlkey=k90xd247pz5o72ffw7ohlemum&raw=1",
+      "dropboxPath": "/Inspections/Colonial Village/S/2026-03-26/Wide/DJI_20260326115410_0080_V.JPG"
+    },
+    {
+      "id": "e160275b4206",
+      "filename": "DJI_20260326115418_0081_V.JPG",
+      "timestamp": "",
+      "flightGroup": "Flight_20260326",
+      "sourceType": "visible",
+      "stats": {
+        "minTemp": 0,
+        "maxTemp": 0,
+        "meanTemp": 0,
+        "width": 1280,
+        "height": 960
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.742942972222224,
+        "lon": -71.13802830555557
+      },
+      "gimbalYaw": -8.0,
+      "gimbalPitch": 0.9,
+      "relativeAltitude": null,
+      "fullResUrl": "https://www.dropbox.com/scl/fi/af28w1v13uufutbtdg5bb/DJI_20260326115418_0081_V.JPG?rlkey=i7dzg2dkmt840tcmiao51kg2o&raw=1",
+      "dropboxPath": "/Inspections/Colonial Village/S/2026-03-26/Wide/DJI_20260326115418_0081_V.JPG"
+    },
+    {
+      "id": "d9a5562e24f7",
+      "filename": "DJI_20260326115709_0102_V.JPG",
+      "timestamp": "",
+      "flightGroup": "Flight_20260326",
+      "sourceType": "visible",
+      "stats": {
+        "minTemp": 0,
+        "maxTemp": 0,
+        "meanTemp": 0,
+        "width": 1280,
+        "height": 960
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.742914722222224,
+        "lon": -71.13828175
+      },
+      "gimbalYaw": -150.8,
+      "gimbalPitch": 0.9,
+      "relativeAltitude": null,
+      "fullResUrl": "https://www.dropbox.com/scl/fi/w6gmophmmdptir8lvry3z/DJI_20260326115709_0102_V.JPG?rlkey=fssx7tqv58i35i407s2ge1f3r&raw=1",
+      "dropboxPath": "/Inspections/Colonial Village/S/2026-03-26/Wide/DJI_20260326115709_0102_V.JPG"
+    },
+    {
+      "id": "2de53083f9a1",
+      "filename": "DJI_20260326115716_0103_V.JPG",
+      "timestamp": "",
+      "flightGroup": "Flight_20260326",
+      "sourceType": "visible",
+      "stats": {
+        "minTemp": 0,
+        "maxTemp": 0,
+        "meanTemp": 0,
+        "width": 1280,
+        "height": 960
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.74288352777778,
+        "lon": -71.13835516666667
+      },
+      "gimbalYaw": 143.7,
+      "gimbalPitch": 0.9,
+      "relativeAltitude": null,
+      "fullResUrl": "https://www.dropbox.com/scl/fi/f5epajfkekuukn03joynu/DJI_20260326115716_0103_V.JPG?rlkey=8tprhukchcn50n5flrq9qmp9q&raw=1",
+      "dropboxPath": "/Inspections/Colonial Village/S/2026-03-26/Wide/DJI_20260326115716_0103_V.JPG"
+    },
+    {
+      "id": "3889971e5df7",
+      "filename": "DJI_20260326115732_0104_V.JPG",
+      "timestamp": "",
+      "flightGroup": "Flight_20260326",
+      "sourceType": "visible",
+      "stats": {
+        "minTemp": 0,
+        "maxTemp": 0,
+        "meanTemp": 0,
+        "width": 1280,
+        "height": 960
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.74291297222222,
+        "lon": -71.13841411111112
+      },
+      "gimbalYaw": 33.6,
+      "gimbalPitch": 0.9,
+      "relativeAltitude": null,
+      "fullResUrl": "https://www.dropbox.com/scl/fi/j922ml93vc56gf88oixgh/DJI_20260326115732_0104_V.JPG?rlkey=bshfnhcpipely5om0fe37xfry&raw=1",
+      "dropboxPath": "/Inspections/Colonial Village/S/2026-03-26/Wide/DJI_20260326115732_0104_V.JPG"
+    },
+    {
+      "id": "2a610c7e8197",
+      "filename": "DJI_20260326115845_0107_V.JPG",
+      "timestamp": "",
+      "flightGroup": "Flight_20260326",
+      "sourceType": "visible",
+      "stats": {
+        "minTemp": 0,
+        "maxTemp": 0,
+        "meanTemp": 0,
+        "width": 1280,
+        "height": 960
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.74261141666667,
+        "lon": -71.13836325000001
+      },
+      "gimbalYaw": 37.0,
+      "gimbalPitch": 5.1,
+      "relativeAltitude": null,
+      "fullResUrl": "https://www.dropbox.com/scl/fi/s7k2bdggipur8q9zej04n/DJI_20260326115845_0107_V.JPG?rlkey=a75u6hzntu0lsutrr8qszgqaz&raw=1",
+      "dropboxPath": "/Inspections/Colonial Village/S/2026-03-26/Wide/DJI_20260326115845_0107_V.JPG"
+    },
+    {
+      "id": "c45d6a5e8d60",
+      "filename": "DJI_20260326115853_0108_V.JPG",
+      "timestamp": "",
+      "flightGroup": "Flight_20260326",
+      "sourceType": "visible",
+      "stats": {
+        "minTemp": 0,
+        "maxTemp": 0,
+        "meanTemp": 0,
+        "width": 1280,
+        "height": 960
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.74262455555556,
+        "lon": -71.13816336111111
+      },
+      "gimbalYaw": -1.9,
+      "gimbalPitch": 5.1,
+      "relativeAltitude": null,
+      "fullResUrl": "https://www.dropbox.com/scl/fi/qghnfgmfy1ue79np1pusz/DJI_20260326115853_0108_V.JPG?rlkey=mdwfatmj91ikm81ujws0jlwzd&raw=1",
+      "dropboxPath": "/Inspections/Colonial Village/S/2026-03-26/Wide/DJI_20260326115853_0108_V.JPG"
+    },
+    {
+      "id": "8bf62d875de1",
+      "filename": "DJI_20260326115859_0109_V.JPG",
+      "timestamp": "",
+      "flightGroup": "Flight_20260326",
+      "sourceType": "visible",
+      "stats": {
+        "minTemp": 0,
+        "maxTemp": 0,
+        "meanTemp": 0,
+        "width": 1280,
+        "height": 960
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.74262616666667,
+        "lon": -71.13810430555556
+      },
+      "gimbalYaw": -1.9,
+      "gimbalPitch": 5.1,
+      "relativeAltitude": null,
+      "fullResUrl": "https://www.dropbox.com/scl/fi/q5uojq5ap0galjfh3gkcc/DJI_20260326115859_0109_V.JPG?rlkey=rln6oy27717peru8qax7trseq&raw=1",
+      "dropboxPath": "/Inspections/Colonial Village/S/2026-03-26/Wide/DJI_20260326115859_0109_V.JPG"
+    },
+    {
+      "id": "5989a54d03c6",
+      "filename": "DJI_20260326115903_0110_V.JPG",
+      "timestamp": "",
+      "flightGroup": "Flight_20260326",
+      "sourceType": "visible",
+      "stats": {
+        "minTemp": 0,
+        "maxTemp": 0,
+        "meanTemp": 0,
+        "width": 1280,
+        "height": 960
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.74262677777778,
+        "lon": -71.13803869444445
+      },
+      "gimbalYaw": -1.9,
+      "gimbalPitch": 5.1,
+      "relativeAltitude": null,
+      "fullResUrl": "https://www.dropbox.com/scl/fi/g510aki5pcypj097etmx9/DJI_20260326115903_0110_V.JPG?rlkey=dyg6ffvhithyhlscokmujt44z&raw=1",
+      "dropboxPath": "/Inspections/Colonial Village/S/2026-03-26/Wide/DJI_20260326115903_0110_V.JPG"
+    },
+    {
+      "id": "b84b6e4b6711",
+      "filename": "DJI_20260326115905_0111_V.JPG",
+      "timestamp": "",
+      "flightGroup": "Flight_20260326",
+      "sourceType": "visible",
+      "stats": {
+        "minTemp": 0,
+        "maxTemp": 0,
+        "meanTemp": 0,
+        "width": 1280,
+        "height": 960
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.74262711111111,
+        "lon": -71.13799105555556
+      },
+      "gimbalYaw": -1.9,
+      "gimbalPitch": 5.1,
+      "relativeAltitude": null,
+      "fullResUrl": "https://www.dropbox.com/scl/fi/hn94i2ltn880n57unojvd/DJI_20260326115905_0111_V.JPG?rlkey=ol8racsywte98fp6ukcz4rrj6&raw=1",
+      "dropboxPath": "/Inspections/Colonial Village/S/2026-03-26/Wide/DJI_20260326115905_0111_V.JPG"
+    },
+    {
+      "id": "916653b85bc8",
+      "filename": "DJI_20260326115909_0112_V.JPG",
+      "timestamp": "",
+      "flightGroup": "Flight_20260326",
+      "sourceType": "visible",
+      "stats": {
+        "minTemp": 0,
+        "maxTemp": 0,
+        "meanTemp": 0,
+        "width": 1280,
+        "height": 960
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.742627444444445,
+        "lon": -71.13792511111112
+      },
+      "gimbalYaw": -1.7,
+      "gimbalPitch": 5.1,
+      "relativeAltitude": null,
+      "fullResUrl": "https://www.dropbox.com/scl/fi/1n4ym2n5dfdauoxi9t0py/DJI_20260326115909_0112_V.JPG?rlkey=sdb7rtdr4ac41oig5jx25h6e8&raw=1",
+      "dropboxPath": "/Inspections/Colonial Village/S/2026-03-26/Wide/DJI_20260326115909_0112_V.JPG"
+    },
+    {
+      "id": "0146295e93e6",
+      "filename": "DJI_20260326115912_0113_V.JPG",
+      "timestamp": "",
+      "flightGroup": "Flight_20260326",
+      "sourceType": "visible",
+      "stats": {
+        "minTemp": 0,
+        "maxTemp": 0,
+        "meanTemp": 0,
+        "width": 1280,
+        "height": 960
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.74262727777778,
+        "lon": -71.1379233888889
+      },
+      "gimbalYaw": 27.6,
+      "gimbalPitch": 5.1,
+      "relativeAltitude": null,
+      "fullResUrl": "https://www.dropbox.com/scl/fi/83g9xutsnrl7kzpp58wcz/DJI_20260326115912_0113_V.JPG?rlkey=mg46taagehmcjer7usxwh3vms&raw=1",
+      "dropboxPath": "/Inspections/Colonial Village/S/2026-03-26/Wide/DJI_20260326115912_0113_V.JPG"
+    },
+    {
+      "id": "451747118997",
+      "filename": "DJI_20260326115932_0114_V.JPG",
+      "timestamp": "",
+      "flightGroup": "Flight_20260326",
+      "sourceType": "visible",
+      "stats": {
+        "minTemp": 0,
+        "maxTemp": 0,
+        "meanTemp": 0,
+        "width": 1280,
+        "height": 960
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.742638472222225,
+        "lon": -71.13768150000001
+      },
+      "gimbalYaw": -34.5,
+      "gimbalPitch": -4.6,
+      "relativeAltitude": null,
+      "fullResUrl": "https://www.dropbox.com/scl/fi/lvtsd4iuelo4kd3s105oq/DJI_20260326115932_0114_V.JPG?rlkey=mrjd1r08abir7eptrmnurknd9&raw=1",
+      "dropboxPath": "/Inspections/Colonial Village/S/2026-03-26/Wide/DJI_20260326115932_0114_V.JPG"
+    },
+    {
+      "id": "fb66f92b3ff3",
+      "filename": "DJI_20260326115943_0115_V.JPG",
+      "timestamp": "",
+      "flightGroup": "Flight_20260326",
+      "sourceType": "visible",
+      "stats": {
+        "minTemp": 0,
+        "maxTemp": 0,
+        "meanTemp": 0,
+        "width": 1280,
+        "height": 960
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.74271666666667,
+        "lon": -71.13764211111112
+      },
+      "gimbalYaw": -41.5,
+      "gimbalPitch": 5.7,
+      "relativeAltitude": null,
+      "fullResUrl": "https://www.dropbox.com/scl/fi/p9oyoa04yzxd79uzgbguy/DJI_20260326115943_0115_V.JPG?rlkey=lkgbgo0d4zajqiyt75550n6sx&raw=1",
+      "dropboxPath": "/Inspections/Colonial Village/S/2026-03-26/Wide/DJI_20260326115943_0115_V.JPG"
+    },
+    {
+      "id": "43a5a3399993",
+      "filename": "DJI_20260326115946_0116_V.JPG",
+      "timestamp": "",
+      "flightGroup": "Flight_20260326",
+      "sourceType": "visible",
+      "stats": {
+        "minTemp": 0,
+        "maxTemp": 0,
+        "meanTemp": 0,
+        "width": 1280,
+        "height": 960
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.74271655555555,
+        "lon": -71.13764119444446
+      },
+      "gimbalYaw": -41.5,
+      "gimbalPitch": 5.8,
+      "relativeAltitude": null,
+      "fullResUrl": "https://www.dropbox.com/scl/fi/1clt75t13nxbyqmcj7xsb/DJI_20260326115946_0116_V.JPG?rlkey=ywaxr5cjlkmrygexblz97etee&raw=1",
+      "dropboxPath": "/Inspections/Colonial Village/S/2026-03-26/Wide/DJI_20260326115946_0116_V.JPG"
+    },
+    {
+      "id": "74b4c11d375e",
+      "filename": "DJI_20260326115948_0117_V.JPG",
+      "timestamp": "",
+      "flightGroup": "Flight_20260326",
+      "sourceType": "visible",
+      "stats": {
+        "minTemp": 0,
+        "maxTemp": 0,
+        "meanTemp": 0,
+        "width": 1280,
+        "height": 960
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.74271591666667,
+        "lon": -71.13764197222223
+      },
+      "gimbalYaw": -73.3,
+      "gimbalPitch": 5.8,
+      "relativeAltitude": null,
+      "fullResUrl": "https://www.dropbox.com/scl/fi/haqyoc8hkv3nrg86rblla/DJI_20260326115948_0117_V.JPG?rlkey=1zuppsyumqowbqfm1e4xlcq9o&raw=1",
+      "dropboxPath": "/Inspections/Colonial Village/S/2026-03-26/Wide/DJI_20260326115948_0117_V.JPG"
+    },
+    {
+      "id": "81b732f9e47c",
+      "filename": "DJI_20260326121658_0041_V.JPG",
+      "timestamp": "",
+      "flightGroup": "Flight_20260326",
+      "sourceType": "visible",
+      "stats": {
+        "minTemp": 0,
+        "maxTemp": 0,
+        "meanTemp": 0,
+        "width": 1280,
+        "height": 960
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.743192916666665,
+        "lon": -71.13767561111112
+      },
+      "gimbalYaw": -141.9,
+      "gimbalPitch": -28.0,
+      "relativeAltitude": null,
+      "fullResUrl": "https://www.dropbox.com/scl/fi/8i37qdvki4k01hufecf2a/DJI_20260326121658_0041_V.JPG?rlkey=d673moc2x9p0xfdborpen3pol&raw=1",
+      "dropboxPath": "/Inspections/Colonial Village/S/2026-03-26/Wide/DJI_20260326121658_0041_V.JPG"
+    },
+    {
+      "id": "4daa4fcb4f7e",
+      "filename": "DJI_20260326122131_0060_V.JPG",
+      "timestamp": "",
+      "flightGroup": "Flight_20260326",
+      "sourceType": "visible",
+      "stats": {
+        "minTemp": 0,
+        "maxTemp": 0,
+        "meanTemp": 0,
+        "width": 1280,
+        "height": 960
+      },
+      "hasVisible": true,
+      "gps": {
+        "lat": 42.74224933333333,
+        "lon": -71.13861594444445
+      },
+      "gimbalYaw": 47.2,
+      "gimbalPitch": -30.4,
+      "relativeAltitude": null,
+      "fullResUrl": "https://www.dropbox.com/scl/fi/k4738dbqfm80qhpbic1sr/DJI_20260326122131_0060_V.JPG?rlkey=n6e9n1lhp1d0otnmgrrbod2fx&raw=1",
+      "dropboxPath": "/Inspections/Colonial Village/T/2026-03-26/Wide/DJI_20260326122131_0060_V.JPG"
+    }
+  ]
+}
